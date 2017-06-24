@@ -1,0 +1,6 @@
+<technique vs="Unity" ps="Unity" psdefines="DIFFMAP">
+    <pass name="base" vsdefines="LIGHTMAP" psdefines="LIGHTMAP" />
+    <pass name="light" vsdefines="NORMALMAP" psdefines="NORMALMAP PACKEDNORMAL" depthtest="equal" depthwrite="false" blend="add" />
+    <pass name="depth" vs="Depth" ps="Depth" />
+    <pass name="shadow" vs="Shadow" ps="Shadow" />
+</technique>

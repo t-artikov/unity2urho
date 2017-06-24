@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material>
+  <technique name="Techniques/UnityDiffNormalPackedLightMap.xml" quality="1" />
+  <texture unit="diffuse" name="Textures/bricks_1_basecolor.dds" />
+  <texture unit="normal" name="Textures/bricks_1_normal.dds" />
+  <texture unit="emissive" name="Textures/Lightmap-0_comp_light.dds" />
+  <parameter name="UOffset" value="3 0 0 0" />
+  <parameter name="VOffset" value="0 2 0 0" />
+</material>

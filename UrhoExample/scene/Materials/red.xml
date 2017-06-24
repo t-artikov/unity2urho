@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material>
+  <technique name="Techniques/UnityDiffLightMap.xml" quality="1" />
+  <texture unit="diffuse" name="Textures/UnityWhite.dds" />
+  <texture unit="emissive" name="Textures/Lightmap-0_comp_light.dds" />
+  <parameter name="MatDiffColor" value="1 0.1691176 0.1691176 1" />
+</material>

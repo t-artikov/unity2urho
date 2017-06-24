@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<material>
+  <cull value="none" />
+  <technique name="Techniques/DiffSkybox.xml" quality="1" />
+  <texture unit="diffuse" name="Textures/Sky_cube.xml" />
+</material>

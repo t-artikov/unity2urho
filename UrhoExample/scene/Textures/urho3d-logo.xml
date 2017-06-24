@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<texture>
+  <address coord="u" mode="wrap" />
+  <address coord="v" mode="wrap" />
+  <filter mode="bilinear" />
+  <srgb enable="false" />
+</texture>
